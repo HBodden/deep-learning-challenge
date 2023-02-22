@@ -46,3 +46,9 @@ After reviewing each of the data inputs, it was determined that associating the 
 
 Summary: After procesing the data and updating the categories to be used, the nueral netwrok model accuracy was 75% which is a good tool to allow Alphabet Soup Charity identify good candiates for funds. While I was able to build a neural network that is dependable, I believe since we are trying to classify something as good candidate or bad, a supervised learning classification model (logistics regression) could have been used to provide the same if not better result. In addition, the supervised technique is a little eaiser to explain to a customer. 
 
+Files:
+StarterCode - Initial data processing and model development 
+AlphabetSoupCharity.h5 - Saved model output 
+charity_data.csv - Data file 
+AlphabetSoupCharity_Optimization.ipynb - Optimized model 
+AlphabetSoupCharity_Optimization.h5 - Saved model 
